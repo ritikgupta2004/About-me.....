@@ -15,17 +15,41 @@
 ---
 
 ## 🚀 What I’m Working On  
-- 🤖 **Reaserch Paper on Sign Language Recognition for Disabled Persons**  
-- 🚘 **AI for Autonomous Vehicles (Real-Time Object Detection)**  
-- 🖊️ **Smart AI Pen with Real-Time Transcription**    
+
+### 🤖 Sign Language Recognition  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>  
 
 ---
 
+### 🚘 AI for Autonomous Vehicles  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+</p>  
+
+---
+
+### 🖊️ Smart AI Pen  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ai,fastapi" />
+</p>  
+
 ## 🛠️ Tech Stack  
-```yaml
-Languages: Python, C++, Java, JavaScript  
-AI/ML: PyTorch, TensorFlow, OpenCV, YOLOv5/8  
-Frontend: HTML, CSS, React,  
-Database: MySQL, MongoDB , Oracle 
-Tools: Git,Pycharm, VS Code  
-# About-me.....
+## 🛠️ Tools / Interests  
+
+<p align="center">
+  <!-- OS -->
+  <img src="https://skillicons.dev/icons?i=arch,popos,linux" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,js,ts,html,css" />
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,react,nextjs" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,androidstudio,figma" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter" />
+</p>
+
