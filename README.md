@@ -10,15 +10,14 @@
 - 🌍 From **Bihar, India** 🇮🇳  
 - 💡 Passionate about **AI, Neural Networks & Smart Systems**  
 - 🏏 Cricket lover + Captain in tournaments  
-- ✍️ Content writer (NSS) | Event Organizer | Tech Explorer  
+-  Tech Explorer  
 
 ---
 
 ## 🚀 What I’m Working On  
-- 🤖 **Sign Language Recognition for Disabled Persons**  
+- 🤖 **Reaserch Paper on Sign Language Recognition for Disabled Persons**  
 - 🚘 **AI for Autonomous Vehicles (Real-Time Object Detection)**  
-- 🖊️ **Smart AI Pen with Real-Time Transcription**  
-- 📊 **Traffic Congestion Prediction using ANN**  
+- 🖊️ **Smart AI Pen with Real-Time Transcription**    
 
 ---
 
@@ -26,7 +25,7 @@
 ```yaml
 Languages: Python, C++, Java, JavaScript  
 AI/ML: PyTorch, TensorFlow, OpenCV, YOLOv5/8  
-Frontend: HTML, CSS, React, Tailwind  
-Database: MySQL, MongoDB  
-Tools: Git, Figma, VS Code  
+Frontend: HTML, CSS, React,  
+Database: MySQL, MongoDB , Oracle 
+Tools: Git,Pycharm, VS Code  
 # About-me.....
